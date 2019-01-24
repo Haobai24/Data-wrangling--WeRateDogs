@@ -14,10 +14,9 @@ This project will be analyzing tweet archive of Twitter user @dog_Rates (A.K.A. 
 ## 1. Gathring Data
 Twitter_archive_enhanced: Provides each tweet that includes dog name, dog score and dog stage. This link is provided to download manually.
 
+Tweet image predictions data (what breed of dogs): Classify each tweet's dog breeds according to a neural network. This file (image_predictions.tsv) can be downloaded programmatically from Udacity's servers using the Requests library and the following URL: https://d17h27t6h515a5.cloudfront.net/topher/2017/August/599fd2ad_image-predictions/image-predictions.tsv
 
-###Tweet image predictions data (what breed of dogs): Classify each tweet's dog breeds according to a neural network. This file (image_predictions.tsv) can be downloaded programmatically from Udacity's servers using the Requests library and the following URL: https://d17h27t6h515a5.cloudfront.net/topher/2017/August/599fd2ad_image-predictions/image-predictions.tsv
-
-###Twitter API & JSON: Include retweet count and favorite count will be gathered using Tweepy to query Twitter's API for additional data beyond the data included in the WeRateDogs Twitter archive.
+Twitter API & JSON: Include retweet count and favorite count will be gathered using Tweepy to query Twitter's API for additional data beyond the data included in the WeRateDogs Twitter archive.
 
 ## 2. Assessing Data
 Both visual and programatic assessments were done to point out quality and tidiness issues. Quality issues are content issues that is inaccurate or redundant. Tidiness issues are the structural issues and unorganized data frames.

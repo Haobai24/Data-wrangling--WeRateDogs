@@ -1,7 +1,7 @@
 # Data wrangling WeRateDogs
 
 ## Introduction
-This project will be analyzing tweet archive of Twitter user @dog_Rates (A.K.A. WeRateDogs) that rates and comments on people's dogs. Data gathers from real world always isn't clean. Python libraries are used to gather, assess and clean its quality/tidyness. 
+This project will be analyzing tweet archive of Twitter user @dog_Rates (A.K.A. WeRateDogs) that rates and comments on people's dogs. Data gather from real world always isn't clean. Python libraries are used to gather, assess and clean its quality/tidyness. 
 
 
 ## Approach

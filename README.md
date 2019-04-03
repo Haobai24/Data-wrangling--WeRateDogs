@@ -10,7 +10,7 @@ This project will be analyzing tweet archive of Twitter user @dog_Rates (A.K.A. 
 3. Cleaning data for all issues
 4. Insights & visualization
  
-
+ 
 ## 1. Gathring Data
 - Twitter_archive_enhanced: Provides each tweet that includes dog name, dog score and dog stage. This link is provided to download manually.
 

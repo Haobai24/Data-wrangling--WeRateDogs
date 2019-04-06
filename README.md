@@ -8,7 +8,7 @@ This project will be analyzing tweet archive of Twitter user @dog_Rates (A.K.A. 
 1. Gathering 3 datasets
 2. Assessing data for quality and tidiness issues
 3. Cleaning data for all issues
-4. Insights & visualization
+4. Insights & visualization 
  
  
 ## 1. Gathring Data
